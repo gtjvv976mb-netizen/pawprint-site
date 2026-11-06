@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gtjvv976mb-netizen.github.io/pawprint-site/sitemap.xml
